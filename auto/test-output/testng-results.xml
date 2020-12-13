@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10508" started-at="2020-12-13T22:58:09 ICT" finished-at="2020-12-13T22:58:20 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10508" started-at="2020-12-13T22:58:09 ICT" finished-at="2020-12-13T22:58:20 ICT">
+      <class name="tests.LoginPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.LoginPageTest@1f7030a6]" name="beforeSuite" is-config="true" duration-ms="3960" started-at="2020-12-13T22:58:05 ICT" finished-at="2020-12-13T22:58:09 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginPageTest@1f7030a6]" name="loginTest" duration-ms="4996" started-at="2020-12-13T22:58:09 ICT" data-provider="test-data" finished-at="2020-12-13T22:58:14 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCustomer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[scipio]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginPageTest@1f7030a6]" name="loginTest" duration-ms="1716" started-at="2020-12-13T22:58:14 ICT" data-provider="test-data" finished-at="2020-12-13T22:58:16 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCustomer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginPageTest@1f7030a6]" name="loginTest" duration-ms="1672" started-at="2020-12-13T22:58:16 ICT" data-provider="test-data" finished-at="2020-12-13T22:58:18 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[scipio]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginPageTest@1f7030a6]" name="loginTest" duration-ms="1672" started-at="2020-12-13T22:58:18 ICT" data-provider="test-data" finished-at="2020-12-13T22:58:20 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCustomer111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[scipio]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.LoginPageTest@1f7030a6]" name="afterSuite" is-config="true" duration-ms="638" started-at="2020-12-13T22:58:20 ICT" finished-at="2020-12-13T22:58:20 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
